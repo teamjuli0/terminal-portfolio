@@ -50,7 +50,6 @@ const Terminal = ({ children, width, height }) => {
           borderRadius: '0 0 50px 50px',
           display: 'flex',
           justifyContent: 'center',
-          // alignItems: 'center',
           width: width || '100%',
           flexWrap: 'wrap',
           margin: 'auto',

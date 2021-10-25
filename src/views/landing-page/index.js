@@ -3,7 +3,7 @@ import { Terminal, NewLine, Command, Output } from './components'
 const LandingPage = () => {
   return (
     <>
-      <Terminal>
+      <Terminal height='400'>
         <NewLine>
           <Command>cat aboutme.txt</Command>
           <Output>
