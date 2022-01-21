@@ -12,6 +12,7 @@ function App() {
       <Router>
         <Switch>
           {/* comment to do something for something idk */}
+          {/* comment on merge-demo */}
           <Route exact path='/' component={LandingPage} />
         </Switch>
       </Router>
