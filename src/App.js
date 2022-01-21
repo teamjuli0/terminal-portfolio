@@ -11,6 +11,7 @@ function App() {
     >
       <Router>
         <Switch>
+          {/* comment to do something for something idk */}
           <Route exact path='/' component={LandingPage} />
         </Switch>
       </Router>
